@@ -8,12 +8,7 @@ about:
 
 :::{#me}
 
-## Goals
-
-## Education
-
-## Experience
+I'm a senior Zoology Major at the University of New Hampshire in Durham, NH, United States. I'm passionate about avian movement ecology, molecular physiology, and evolution. I have experience in passerine banding, CTT tagging, and blood sampling, along with skills in DNA extraction, PCR, and bioinformatics.
 
 :::
 
-Thanks for checking out my web site!
