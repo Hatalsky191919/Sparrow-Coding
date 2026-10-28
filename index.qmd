@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Kara Hatalsky"
 about:
   id: me
   template: broadside
